@@ -43,10 +43,7 @@
  <tbody>
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
-    <ol>
-        <li>cgi-bin</li>
-
-    </ol>
+    <ol>  <li>cgi-bin</li>  </ol>
       o2>
         <li>index.html</li>
 
