@@ -43,7 +43,7 @@
  <tbody>
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
-    <ol>  cgi-bin  </ol>
+    <h3>  cgi-bin  </h3>
       <p> iner class </p>
    
   </ul>
