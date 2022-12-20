@@ -44,9 +44,13 @@
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
     <ol>
-        <li>Apartdo1</li>
+        <li>cgi-bin</li>
 
     </ol>
+      o2>
+        <li>index.html</li>
+
+    </o2>
   </ul>
 
   <tr><td><strong>II. CONCLUSIONES:</strong><br>- ........................................................................<br>
