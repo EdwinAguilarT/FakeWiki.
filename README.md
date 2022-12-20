@@ -44,7 +44,7 @@
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
     <ol>  <li> cgi-bin </li>  </ol>
-      <h3> iner class </h3>
+      <p> iner class </p>
    
   </ul>
 
