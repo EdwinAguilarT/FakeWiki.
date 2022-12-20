@@ -30,7 +30,8 @@
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 12</td><td>AÑO LECTIVO:</td><td>2022-B</td><td>NRO. SEMESTRE:</td><td>II</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td> **-Dic-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">11:30 p.m.</td></tr>
 
-  <tr><td>INTEGRANTES:</td><td colspan="3">Aguilar Tancayo Edwin Francisco. <br>Cáceres Apaza, Jherald Huren<br>-------------------------<br>-------------------<br>-------------------</td><td>NOTA:</td><td>...</td></tr>
+
+  <tr><td>INTEGRANTES:</td><td colspan="3">Aguilar Tancayo Edwin Francisco. <br>Cáceres Apaza Jherald Huren.<br>-------------------------<br>-------------------<br>-------------------</td><td>NOTA:</td><td>...</td></tr>
 
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
  </tbody>
