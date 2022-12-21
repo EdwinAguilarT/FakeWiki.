@@ -50,6 +50,11 @@
     <h1>  Index.html  </h1> 
       <p>Pagina de presentacion del proyecto FakeWiki </p>
            <img src="img/indexhtml.png">
+    <h1>  Base de datos  </h1> 
+      <p>Creacion de la base de datos con MariaDB </p>
+           <img src="img/crearmariadb.png">   
+      <p>Elementos de la tabla </p>
+           <img src="img/tabla.png">
     <h1>  New.html  </h1> 
       <p> Imprime un formulario en HTML para el ingreso de datos (Título y Texto)   </p>
             <img src="img/newhtml.png " width="800" height="500" />
