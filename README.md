@@ -46,19 +46,19 @@
   <ul>
     <h1>  Markdown  </h1> 
       <p>Markdown es una herramientaque permite escribir páginas web sin tener conocimiento de HTML </p>
-          <img src="img/fondo.png">
+          <img src="img/fondo.png" width="800" height="700" />
     <h1>  Index.html  </h1> 
       <p>Pagina de presentacion del proyecto FakeWiki </p>
            <img src="img/indexhtml.png">
     <h1>  New.html  </h1> 
       <p> Imprime un formulario en HTML para el ingreso de datos (Título y Texto)   </p>
-            <img src="img/newhtml.png">
+            <img src="img/newhtml.png " width="800" height="500" />
     <h1>  cgi-bin  </h1>
       <ol> 
           <li> <h2> List.pl </h2> </li>
               <p> Te mostrará la lista de todos los artículos ingresados por new.html, en este podremos eliminar y editar los articulos, <br> 
                   tambien ver la traducción markdown a HTML </p>
-                              <img src="img/list.png">
+                              <img src="img/list.png" width="700" height="300" />
           <li> <h2> Delete.pl </h2> </li>
               <p> Se representa en un botón “X” que borrará el artículo de la lista y de la base de datos </p>
                           <img src="img/delete.png">
@@ -70,7 +70,7 @@
                           <img src="img/view.png">
           <li> <h2> New.pl </h2> </li>
               <p> Recibe los datos del formulario de new.html y los usará para crear la página HTML </p>
-                          <img src="img/newpl.png">
+                          <img src="img/newpl.png" width="700" height="300" />
       </ol>  
   </ul>
 
