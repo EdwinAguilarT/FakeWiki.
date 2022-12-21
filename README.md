@@ -95,7 +95,7 @@
   <tr><td><strong>REFERENCIAS Y BIBLIOGRAFÍA</strong></td><tr>
  </theader>
  <tbody>
-  <tr><td>https://cgi-lib.berkeley.edu/1</td></tr>
+  <tr><td>https://cgi-lib.berkeley.edu/</td></tr>
   <tr><td>https://www.blyx.com/public/docs/expresiones_regulares_perl.html</td></tr>
   <tr><td>http://www.w3big.com/es/perl/perl-regular-expressions.html#gsc.tab=0</td></tr>
  </tbody>
