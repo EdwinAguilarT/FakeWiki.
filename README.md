@@ -47,6 +47,7 @@
       <p>Markdown es una herramientaque permite escribir páginas web sin tener conocimiento de HTML  <br> 
          IMAGEN
       </p>
+      <img src="img/fondo.png">
      <h4>  Index.html  </h4> 
       <p>Pagina de presentacion del laboratorio <br> 
          IMAGEN
