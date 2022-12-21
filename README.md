@@ -28,10 +28,11 @@
   <tr><td>ASIGNATUA:</td><td colspan="5">Programacion Web 1 </td></tr>
   <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="4">Proyecto final (I Entrega) <td></tr>
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 12</td><td>AÑO LECTIVO:</td><td>2022-B</td><td>NRO. SEMESTRE:</td><td>II</td></tr>
-  <tr><td>FECHA DE PRESENTACIÓN:</td><td> **-Dic-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">11:30 p.m.</td></tr>
+  <tr><td>FECHA DE PRESENTACIÓN:</td><td> 21-Dic-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">11:30 p.m.</td></tr>
 
 
-  <tr><td>INTEGRANTES:</td><td colspan="3">Aguilar Tancayo Edwin Francisco. <br>Cáceres Apaza Jherald Huren.<br>-------------------------<br>-------------------<br>-------------------</td><td>NOTA:</td><td>...</td></tr>
+  <tr><td>INTEGRANTES:</td><td colspan="3">Aguilar Tancayo Edwin Francisco. <br>Cáceres Apaza Jherald Huren.<br>Contreras Huamani Paul Michaell.
+   <br>Ezcurra Paima Maria Solange. <br>Choque Quispe Eduardo Jhosue. <br> Callocondo Garay Santiago Jesus. </td><td>NOTA:</td><td>...</td></tr>
 
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
  </tbody>
@@ -53,17 +54,18 @@
       <p> Imprime un formulario en HTML para el ingreso de datos (Título y Texto)   </p>
             <img src="img/newhtml.png">
     <h1>  cgi-bin  </h1>
-      <ol>  
+      <ol> 
+          <li> <h2> List.pl </h2> </li>
+              <p> Te mostrará la lista de todos los artículos ingresados por new.html, en este podremos eliminar y editar los articulos, <br> 
+                  tambien ver la traducción markdown a HTML </p>
+                              <img src="img/list.png">
           <li> <h2> Delete.pl </h2> </li>
               <p> Se representa en un botón “X” que borrará el artículo de la lista y de la base de datos </p>
                           <img src="img/delete.png">
           <li> <h2> Edit.pl </h2> </li>
               <p> Se representa en un botón “E” que en un formato similar al new.html, te permitirá modificar solo el texto </p>
                           <img src="img/edit.png">
-          <li> <h2> List.pl </h2> </li>
-              <p> Te mostrará la lista de todos los artículos ingresados por new.html, en este podremos eliminar y editar los articulos, <br> 
-                  tambien ver la traducción markdown a HTML </p>
-                              <img src="img/list.png">
+
           <li> <h2> View.pl </h2> </li>
               <p> Traduce el markdown a lenguaje HTML </p>
                           <img src="img/view.png">
