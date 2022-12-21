@@ -43,6 +43,18 @@
  <tbody>
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
+    <h4>  Markdown  </h4> 
+      <p>Markdown es una herramientaque permite escribir páginas web sin tener conocimiento de HTML  <br> 
+         IMAGEN
+      </p>
+     <h4>  Index.html  </h4> 
+      <p>Pagina de presentacion del laboratorio <br> 
+         IMAGEN
+      </p>
+     <h4>  View.html  </h4> 
+      <p>Pagina para introducir el contenido que se desea convertir a una pagina web  <br> 
+         IMAGEN
+      </p>
     <h4>  cgi-bin  </h4>
       <ol>  
           <li> Delete.pl </li>
