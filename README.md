@@ -29,7 +29,10 @@
   <tr><td>TÍTULO DE LA PRACTICA:</td><td colspan="4">Proyecto final (I Entrega) <td></tr>
   <tr><td>NÚMERO DE PRÁCTICA:</td><td>Practica de Laboratorio 12</td><td>AÑO LECTIVO:</td><td>2022-B</td><td>NRO. SEMESTRE:</td><td>II</td></tr>
   <tr><td>FECHA DE PRESENTACIÓN:</td><td> **-Dic-2022</td><td>HORA DE PRESENTACIÓN:</td><td colspan="3">11:30 p.m.</td></tr>
-  <tr><td>INTEGRANTES:</td><td colspan="3">Aguilar Tancayo, Edwin Francisco <br>Cáceres Apaza Jherald Huren.<br>-------------------------<br>-------------------<br>-------------------</td><td>NOTA:</td><td>...</td></tr>
+
+
+  <tr><td>INTEGRANTES:</td><td colspan="3">Aguilar Tancayo Edwin Francisco. <br>Cáceres Apaza Jherald Huren.<br>-------------------------<br>-------------------<br>-------------------</td><td>NOTA:</td><td>...</td></tr>
+
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
  </tbody>
 </table>
@@ -40,10 +43,46 @@
  <tbody>
   <tr><td><strong>I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS:</strong><br>
   <ul>
-    <ol>
-        <li>Apartdo1</li>
-
-    </ol>
+    <h4>  Markdown  </h4> 
+      <p>Markdown es una herramientaque permite escribir páginas web sin tener conocimiento de HTML  <br> 
+         IMAGEN
+      </p>
+     <h4>  Index.html  </h4> 
+      <p>Pagina de presentacion del laboratorio <br> 
+         IMAGEN
+      </p>
+     <h4>  View.html  </h4> 
+      <p>Pagina para introducir el contenido que se desea convertir a una pagina web  <br> 
+         IMAGEN
+      </p>
+    <h4>  cgi-bin  </h4>
+      <ol>  
+          <li> Delete.pl </li>
+          <p> io sono starosa ,colui a cui e estato conceso il comandamento del amore, perche nell amore ce sempre un orologio <br>
+               que fa tic tac che sempre un conto alla non vasta amare qualquno devi arrivare in tempo <br>
+              fuoco
+          </p>
+          <li> Edit.pl </li>
+            <p>................................................................................................................<br> 
+               .................................................................................................................
+            </p>  
+          <li> List.pl </li>
+           <p>................................................................................................................<br> 
+               .................................................................................................................
+           </p> 
+          <li> View.pl </li>
+           <p>................................................................................................................<br> 
+               .................................................................................................................
+           </p> 
+          <li> New.pl </li>
+           <p>................................................................................................................<br> 
+               .................................................................................................................
+           </p>
+      </ol>
+     <h4>  Index.html  </h4>
+           <p>................................................................................................................<br> 
+               .................................................................................................................
+           </p>   
   </ul>
 
   <tr><td><strong>II. CONCLUSIONES:</strong><br>- ........................................................................<br>
