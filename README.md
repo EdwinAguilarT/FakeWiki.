@@ -32,7 +32,7 @@
 
 
   <tr><td>INTEGRANTES:</td><td colspan="3">Aguilar Tancayo Edwin Francisco. <br>Cáceres Apaza Jherald Huren.<br>Contreras Huamani Paul Michaell.
-   <br>Ezcurra Paima Maria Solange. <br>Choque Quispe Eduardo Jhosue. <br> Callocondo Garay Santiago Jesus. <br> Ayamamani Añazco Francis William. <br> Chino Pari Joel Antonio </td><td>NOTA:</td><td>...</td></tr>
+   <br>Ezcurra Paima Maria Solange. <br>Choque Quispe Eduardo Jhosue. <br> Callocondo Garay Santiago Jesus. <br> Ayamamani Añazco Francis William. <br> Chino Pari Joel Antonio. </td><td>NOTA:</td><td>...</td></tr>
 
   <tr><td>DOCENTE:</td><td colspan="5">Richart Smith Escobedo Quispe - rescobedoq@unsa.edu.pe</td></tr>
  </tbody>
