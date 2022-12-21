@@ -65,7 +65,6 @@
           <li> <h2> Edit.pl </h2> </li>
               <p> Se representa en un botón “E” que en un formato similar al new.html, te permitirá modificar solo el texto </p>
                           <img src="img/edit.png">
-
           <li> <h2> View.pl </h2> </li>
               <p> Traduce el markdown a lenguaje HTML </p>
                           <img src="img/view.png">
@@ -75,10 +74,8 @@
       </ol>  
   </ul>
 
-  <tr><td><strong>II. CONCLUSIONES:</strong><br>- ........................................................................<br>
-  - ...................................................................................................<br>
-  - ...............................................................<br>
-  - ...............................................................<br></td></tr>
+  <tr><td><strong>II. CONCLUSIONES:</strong><br>- Es posible cear un recurso web de creacion de paginas con uso de expresiones regurares en perl,<br>
+     HTML y bases de datos<br> </td></tr>
  </tbody>
 </table>
 <hr>
@@ -98,10 +95,8 @@
   <tr><td><strong>REFERENCIAS Y BIBLIOGRAFÍA</strong></td><tr>
  </theader>
  <tbody>
-  <tr><td>Ref 1</td></tr>
-  <tr><td>Ref 2</td></tr>
-  <tr><td>...</td></tr>
-  <tr><td>...</td></tr>
-  <tr><td>...</td></tr>
+  <tr><td>https://cgi-lib.berkeley.edu/1</td></tr>
+  <tr><td>https://www.blyx.com/public/docs/expresiones_regulares_perl.html</td></tr>
+  <tr><td>http://www.w3big.com/es/perl/perl-regular-expressions.html#gsc.tab=0</td></tr>
  </tbody>
 </table>
