@@ -46,7 +46,7 @@
   <ul>
     <h1>  Video  </h1> 
       <p>Video de demostracion del proyecto</p>
-          <h4>https://drive.google.com/drive/folders/1dTh97aYSjkbSgnIaEkoZzHivUoG9BIaZ?usp=sharing</h4>
+          <h4>https://drive.google.com/file/d/1j_IJzjNaEKeGfu1UQxg3S8GEP63hFK0m/view?usp=share_link</h4>
     <h1>  Markdown  </h1> 
       <p>Markdown es una herramientaque permite escribir páginas web sin tener conocimiento de HTML </p>
           <img src="img/fondo.png" width="800" height="700" />
